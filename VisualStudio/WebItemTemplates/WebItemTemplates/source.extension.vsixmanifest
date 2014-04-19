@@ -18,18 +18,21 @@
         <Edition>Ultimate</Edition>
         <Edition>Premium</Edition>
         <Edition>Pro</Edition>
+        <Edition>VWDExpress</Edition>
         <Edition>VSWinDesktopExpress</Edition>
       </VisualStudio>
       <VisualStudio Version="13.0">
         <Edition>Ultimate</Edition>
         <Edition>Premium</Edition>
         <Edition>Pro</Edition>
+        <Edition>VWDExpress</Edition>
         <Edition>VSWinDesktopExpress</Edition>
       </VisualStudio>
       <VisualStudio Version="14.0">
         <Edition>Ultimate</Edition>
         <Edition>Premium</Edition>
         <Edition>Pro</Edition>
+        <Edition>VWDExpress</Edition>
         <Edition>VSWinDesktopExpress</Edition>
       </VisualStudio>
     </SupportedProducts>
